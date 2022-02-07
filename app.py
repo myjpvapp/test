@@ -3,7 +3,7 @@ import imutils
 from PIL import Image
 import numpy as np
 
-st.title("My Streamlit Image Resizer")
+st.title("SAlut JP ...")
 
 content_file = st.sidebar.file_uploader("Choose a Content Image", type=["png", "jpg", "jpeg"])
 
